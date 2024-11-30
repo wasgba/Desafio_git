@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../.github.oi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Desafio_wikipedia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../git-wasgba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../meu_curriculum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../microsservicos-com-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../servidor2" vcs="Git" />
+  </component>
+</project>
